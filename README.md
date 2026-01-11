@@ -3,7 +3,7 @@
 A modern, responsive landing page for Nothing brand products. This is my first landing page project, built with semantic HTML and SCSS following BEM methodology.
 
 ## 🎨 Design:
-- [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+-[Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
 
 ## 🚀 Preview
 -[DEMO LINK](https://Yevhen-Srdk.github.io/layout_landing-page/).
@@ -40,6 +40,6 @@ This project helped me learn:
 
 Yevhen Serdiuk
 
-- GitHub: [@your-username](https://github.com/yevhen-srdk)
+- GitHub: (https://github.com/yevhen-srdk)
 
 ⭐ If you like this project, please give it a star!

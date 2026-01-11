@@ -34,7 +34,7 @@
                 alt="Nothing logo">
             </a>
             <div class="top-bar__icons">
-              <a href="#" class="icon icon--phone"></a>
+              <a href="tel:+123455555555" class="icon icon--phone"></a>
               <a href="#menu" class="icon icon--menu"></a>
             </div>
           </div>
@@ -62,13 +62,13 @@
           <nav class="nav menu__nav">
             <ul class="nav__list">
               <li class="nav__item">
-                <a class="nav__link" href="#">Products</a>
+                <a class="nav__link" href="#recommended">Products</a>
               </li>
               <li class="nav__item">
-                <a class="nav__link" href="#">Store</a>
+                <a class="nav__link" href="#categories">Store</a>
               </li>
               <li class="nav__item">
-                <a class="nav__link" href="#">Login</a>
+                <a class="nav__link" href="#contacts">Login</a>
               </li>
               <li class="nav__item">
                 <a class="nav__link" href="#">Cart(0)</a>
@@ -216,7 +216,12 @@
           <section class="contacts" id="contacts">
             <h2 class="section__title contacts__title">Contact us</h2>
 
-            <form action="POST" class="contacts__form">
+            <form
+              action="POST"
+              class="contacts__form"
+              onsubmit="this.reset();
+              return false"
+            >
               <input
                 class="contacts__input"
                 type="text"
